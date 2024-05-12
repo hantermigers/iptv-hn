@@ -4,7 +4,6 @@
 ==== ##saus= https://github.com/OngisMbois/IPTV-PREMIUM/blob/main/DENSTV ====
 ==============================================================================================================
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="DTV - INDONESIA", SCTV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://bit.ly/3Sc6EFk
@@ -12,6 +11,8 @@ https://bit.ly/3Sc6EFk
 http://103.166.27.2:8112/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="DTV - INDONESIA", SCTV Digital
 https://mantul.biz.id:443/ekos/748382/32.ts
+
+
 
 =========================================== SCTV src PERFECTPLAYER ===========================================
 ==== ##saus= https://github.com/OngisMbois/IPTV-PREMIUM/blob/main/Perfect%20Player ====
@@ -32,6 +33,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #EXTINF:-1 group-title="PP - NASIONAL SD" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", SCTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
 
 
 =========================================== SCTV src STBKU2024 ===========================================
