@@ -1,17 +1,20 @@
 #EXTM3U
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
 
 =========================================== SCTV OK 12-May-2024 ===========================================
 ==============================================================================================================
-#EXTINF:-1 tvg-id="SCTV.id" group-title="SCTV OK 12-May-2024" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg", SCTV DNSTV SD 
+#EXTINF:-1 group-title="SCTV OK 12-May-2024" tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg", SCTV DNSTV SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.id" group-title="SCTV OK 12-May-2024" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg", SCTV DNSTV HD 
+#EXTINF:-1 group-title="SCTV OK 12-May-2024" tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg", SCTV DNSTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="SCTV OK 12-May-2024", SCTV DNSTV (D*)
+#EXTINF:-1 group-title="SCTV OK 12-May-2024" tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg", SCTV DNSTV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://bit.ly/3Sc6EFk
 
