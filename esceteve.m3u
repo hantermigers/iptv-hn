@@ -3,30 +3,30 @@
 
 =========================================== SCTV OK 12-May-2024 ===========================================
 ==============================================================================================================
-#EXTINF:-1 group-title="SCTV OK 12-May-2024" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg", SCTV DNSTV SD 
+#EXTINF:-1 tvg-id="SCTV.id" group-title="SCTV OK 12-May-2024" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg", SCTV DNSTV SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
-#EXTINF:-1 group-title="SCTV OK 12-May-2024" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg", SCTV DNSTV HD 
+#EXTINF:-1 tvg-id="SCTV.id" group-title="SCTV OK 12-May-2024" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg", SCTV DNSTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="SCTV OK 12-May-2024", SCTV DNSTV (D*)
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="SCTV OK 12-May-2024", SCTV DNSTV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://bit.ly/3Sc6EFk
 
 
 
-=========================================== SCTV src DENSTV ===========================================
+=========================================== X SCTV src DENSTV ===========================================
 ==== ##saus= https://github.com/OngisMbois/IPTV-PREMIUM/blob/main/DENSTV ====
 ==============================================================================================================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="DTV - INDONESIA", SCTV (D*)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="X DTV - INDONESIA", SCTV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://bit.ly/3Sc6EFk
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="DTV - INDONESIA", SCTV Digital FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="X DTV - INDONESIA", SCTV Digital FHD
 http://103.166.27.2:8112/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="DTV - INDONESIA", SCTV Digital
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="X DTV - INDONESIA", SCTV Digital
 https://mantul.biz.id:443/ekos/748382/32.ts
 
 
@@ -35,19 +35,19 @@ https://mantul.biz.id:443/ekos/748382/32.ts
 ==== ##saus= https://github.com/OngisMbois/IPTV-PREMIUM/blob/main/Perfect%20Player ====
 ==============================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="PP - NASIONAL",SCTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="X PP - NASIONAL",SCTV 
 https://github.com/thefirefox12537/streams/raw/master/esceteve_2.m3u8
 ##http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="PP - NASIONAL",SCTV HD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="X PP - NASIONAL",SCTV HD*
 http://tvnid.x10.mx/vidio/master-1.m3u8
 ##http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
-#EXTINF:-1 group-title="PP - NASIONAL SD" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", SCTV SD 
+#EXTINF:-1 group-title="X PP - NASIONAL SD" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", SCTV SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
-#EXTINF:-1 group-title="PP - NASIONAL SD" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", SCTV HD 
+#EXTINF:-1 group-title="X PP - NASIONAL SD" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", SCTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
@@ -58,9 +58,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 ==============================================================================================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/sctv.png" group-title="STBK24 - Lokal" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
+#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/sctv.png" group-title="X STBK24 - Lokal" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/sctv.png" group-title="STBK24 - Lokal" tvg-id="SCTV.id" tvg-name="SCTV", SCTV HD
+#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/sctv.png" group-title="X STBK24 - Lokal" tvg-id="SCTV.id" tvg-name="SCTV", SCTV HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
